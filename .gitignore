@@ -1,0 +1,12 @@
+bin/
+
+AGENTS.md
+auth.json
+
+.DS_STORE
+sessions/
+npm/node_modules/
+
+# Only for work.
+skills/config/
+skills/event-driven
