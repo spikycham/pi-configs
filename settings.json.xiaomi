@@ -1,0 +1,13 @@
+{
+  "lastChangelogVersion": "1.4.0",
+  "theme": "dark",
+  "defaultProvider": "xiaomi",
+  "defaultModel": "mimo-v2.6-flash",
+  "defaultThinkingLevel": "high",
+  "hideThinkingBlock": true,
+  "collapseChangelog": true,
+  "tuiMode": "fullscreen",
+  "packages": [
+    "npm:pi-caveman"
+  ]
+}

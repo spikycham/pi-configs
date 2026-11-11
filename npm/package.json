@@ -2,6 +2,6 @@
   "name": "pi-extensions",
   "private": true,
   "dependencies": {
-    "pi-caveman": "^1.0.8"
+    "pi-caveman": "^1.0.12"
   }
 }

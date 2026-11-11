@@ -1,13 +1,11 @@
 {
-  "lastChangelogVersion": "0.84.2",
-  "theme": "dark",
-  "defaultProvider": "deepseek",
-  "defaultModel": "deepseek-v4-flash",
-  "defaultThinkingLevel": "high",
-  "hideThinkingBlock": true,
-  "collapseChangelog": true,
-  "tuiMode": "fullscreen",
-  "packages": [
-    "npm:pi-caveman"
-  ]
+    "lastChangelogVersion": "1.4.0",
+    "theme": "dark",
+    "defaultProvider": "deepseek",
+    "defaultModel": "deepseek-flash",
+    "defaultThinkingLevel": "high",
+    "hideThinkingBlock": true,
+    "collapseChangelog": true,
+    "tuiMode": "fullscreen",
+    "packages": ["npm:pi-caveman"]
 }
